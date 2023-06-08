@@ -3,7 +3,7 @@
 Bu repo [Kodluyoruz](https://kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası ve bir adet index.html barındırıyor. 
 
 
-![](https://1drv.ms/i/s!AjvoGZlqA0t0iheOF5wKHP-chl2h?e=Ti6XnN)
+![a](https://1drv.ms/i/s!AjvoGZlqA0t0iheOF5wKHP-chl2h?e=Ti6XnN)
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
